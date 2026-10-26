@@ -12,4 +12,14 @@ Prototipo Android sin permisos especiales:
 3. Descargá el artifact `Headphones-Lab-APK` y extraé `app-debug.apk`.
 
 ## Seguridad
-Empezá con volumen bajo. Los tonos no están calibrados a un nivel de presión sonora exacto. No uses tonos para diagnosticar tu audición. Detené la prueba si sentís molestia, zumbido o mareo. La app no añade ANC ni controla funciones internas de los auriculares.
+Empezá con volumen bajo. Los tonos no están calibrados a un nivel de presión sonora exacto. No uses tonos para diagnosticar tu audición. Recomendaciones de seguridad auditiva
+
+Se recomienda realizar pruebas a volumen bajo y durante períodos breves.
+
+No aumentes el volumen para intentar escuchar frecuencias más altas.
+
+Las frecuencias superiores a 7.000 Hz pueden resultar difíciles de oír para algunas personas.
+
+Si sentís molestias, dolor o zumbidos, detené la reproducción inmediatamente.
+
+Importante: el riesgo para la audición depende principalmente de la intensidad del sonido y del tiempo de exposición, no únicamente de la frecuencia.
